@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+학사, 석사 과정 중에는 화학을 전공했고, 현재는 화장품 회사에 다니고 있습니다.
+또, 프로그래밍에 흥미가 생겨 공부하고 있습니다.
 <!--
 **ChemistryAndCosmetics/ChemistryAndCosmetics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
